@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/practika-sunday/static/css/main.e6c13ad2.css",
+    "main.js": "/practika-sunday/static/js/main.9a303217.js",
+    "index.html": "/practika-sunday/index.html",
+    "main.e6c13ad2.css.map": "/practika-sunday/static/css/main.e6c13ad2.css.map",
+    "main.9a303217.js.map": "/practika-sunday/static/js/main.9a303217.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.9a303217.js"
+  ]
+}
